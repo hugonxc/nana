@@ -1,0 +1,1 @@
+type NoteCallback = (time: number, currentBeat: number) => void
