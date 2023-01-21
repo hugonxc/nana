@@ -4,7 +4,7 @@
   "description": "A NPM package to deliver precise beat",
   "main": "lib/index.js",
   "scripts": {
-    "build" : "tsc",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +24,7 @@
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.9.4"
   },
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
