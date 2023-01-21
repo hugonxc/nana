@@ -1,1 +1,5 @@
-export { clock } from './clock';
+export { useAudioContext } from './audio-context/use-audio-context'
+export { useClock } from './clock/use-clock'
+export { useMetronome } from './metronome/metronome'
+export { useChord } from './chord'
+export { useCore } from './core/core' 
